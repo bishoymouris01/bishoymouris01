@@ -1,101 +1,108 @@
-# 🏎️ Bishoy Mouris
-**`Data Engineer | Software Engineer | BMW Digitalization Experience (~2 Years)`**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bishoy" alt="Typing SVG" />
+</div>
 
-## About Me
-- I build scalable data pipelines, intelligent systems, and production-grade software.
-- Worked at BMW to digitalize logistics, energy models, and operational processes.
-- Passionate about turning complex data into actionable insights and intuitive systems.
+<br/>
 
-## Skill Stack
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <strong>Data pipelines • Intelligent systems • Production-grade software</strong><br>
+  Turning complex logistics/energy/operational data into <strong>real business value</strong> @ BMW
+</p>
+
+
+## 🚀 About Me
+- 🔧 Building **scalable data pipelines**, real-time analytics & enterprise automation tools
+- 🏭 ~2 years @ **BMW** — digitalized logistics, energy models, assembly processes
+- 📊 Passionate about **data → decisions**: ETL, cloud analytics, intelligent automation
+- 🎓 BSc Computer Engineering @ University of Debrecen (Expected June 2026)  Full-ride **Stipendium Hungaricum** Scholar | Top 10 in program
+- 🌱 Currently exploring Snowflake, dbt, real-time streaming & MLOps
+
+## 🛠️ Tech Stack
+
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0166B1?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data & Cloud
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-4B5563?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Frontend & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Enterprise
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
+<br/>
 
-<!-- ## Projects - Showcase
+<!-- ## 🔥 Featured Projects -->
+
+<!-- Replace placeholders with real screenshots / GIFs when possible 
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x200.png?text=Digital+Twin+Project"
-             alt="Digital Twin Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="LINK_TO_REPO">
+        <img src="https://via.placeholder.com/400x220/1e40af/ffffff?text=Digital+Twin+Energy+Model" alt="Digital Twin" style="border-radius:8px;"/>
       </a>
-      <br/>
-      <b>Digital Twin for Energy & Operations</b><br/>
-      <sub>Cloud-hosted real-time digital twin for BMW factory energy modeling and decision-making.</sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Tags: Python, SQL, AWS, Data Modeling, Visualization</sub>
+      <br/><br/>
+      <b>Digital Twin – Energy & Operations</b><br/>
+      <sub>Real-time cloud digital twin for factory energy optimization & predictive decisions</sub><br/>
+      <sub>Python • Snowflake • AWS • QuickSight</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x200.png?text=Shift-Report+System"
-             alt="Shift-Report Ticketing System"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="LINK_TO_REPO">
+        <img src="https://via.placeholder.com/400x220/047857/ffffff?text=Shift+Report+System" alt="Shift Report" style="border-radius:8px;"/>
       </a>
-      <br/>
-      <b>Shift-Report Ticketing & Partner Communication</b><br/>
-      <sub>Enterprise tool to improve assembly and partner communication at BMW, reducing delays.</sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Tags: SQL Server, ETL Pipelines, Power Apps, CRM Systems</sub>
+      <br/><br/>
+      <b>Shift-Report & Partner Ticketing</b><br/>
+      <sub>Reduced assembly delays via automated ticketing & partner communication platform</sub><br/>
+      <sub>SQL Server • Power Apps • ETL • Salesforce</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x200.png?text=AI+Recommendation+System"
-             alt="AI Recommendation System"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="LINK_TO_REPO">
+        <img src="https://via.placeholder.com/400x220/b91c1c/ffffff?text=AI+Vision+Recommender" alt="AI Vision" style="border-radius:8px;"/>
       </a>
-      <br/>
-      <b>AI-Powered Recommendation & Vision System</b><br/>
-      <sub>OCR and computer vision system providing intelligent recommendations for workflows.</sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Tags: Python, AI, Computer Vision, Data Pipelines</sub>
+      <br/><br/>
+      <b>AI-Powered Vision & Recommendation</b><br/>
+      <sub>OCR + computer vision system delivering smart workflow suggestions</sub><br/>
+      <sub>Python • OpenCV / similar • Data Pipelines</sub>
     </td>
   </tr>
-</table> -->
+</table>
+
+<br/> -->
+## 📫 Get in Touch
+<div align="center">
+  <a href="https://www.linkedin.com/in/bishoy-mouris-331202243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bishoy@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Optional: contribution snake / activity graph if you like playful touch -->
+  <!-- ![Snake animation](https://github.com/bishoymouris01/bishoymouris01/blob/output/github-contribution-grid-snake.svg) -->
+  
+  <!-- or a small fun gif
+![Analytics Dashboard](https://media.giphy.com/media/26gsiCIKW7ANEmxKE/giphy.gif) -->
 
 
-<!-- ## Stats
-![Bishoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishoymouris01&show_icons=true&theme=gruvbox) -->
-
-
-
-## Links
-- [**LinkedIn**](https://www.linkedin.com/in/bishoy-mouris-331202243/)
-- [**GitHub**](https://github.com/bishoymouris01)
-- [**Portfolio / Contact**](mailto:bishoy@example.com)  
-
-<a href="https://www.linkedin.com/in/bishoy-mouris-331202243/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/bishoymouris01" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-
-
+</div>
