@@ -98,7 +98,4 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
-<!-- Optional playful GIF -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NwaWNpb3VtZm91b3pwbTN3Z3lyeGZ1aWd4aDNqNnF6czVqYnlqZmZ0d2Y0ZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
-
 
